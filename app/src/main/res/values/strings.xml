@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PurnUp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_event">Create Event</string>
+    <string name="search">Search</string>
+    <string name="all_events">All Events</string>
+    <string name="date_filter">Filter Date</string>
+    <string name="filter_location">Filter Location</string>
+    <string name="filter_popularity">Filter Popularity</string>
+    <string name="lorem_ipsum">Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- FAB radius's-->
+    <dimen name="card_profile_pic_radius">72dp</dimen>
+    <dimen name="popularity_radius">20dp</dimen>
+    <dimen name="filter_button_radius">56dp</dimen>
+
+    <!-- paddings -->
+    <dimen name="list_padding">16dp</dimen>
+    <dimen name="card_padding">8dp</dimen>
+    <dimen name="card_button_padding">8dp</dimen>
+    <dimen name="card_action_padding">8dp</dimen>
+    <dimen name="card_top_bar_padding">8dp</dimen>
+    <dimen name="card_profile_pic_padding">8dp</dimen>
+
+    <!-- heights -->
+    <dimen name="list_height">72dp</dimen>
+    <dimen name="card_text_bar_height">72dp</dimen>
+    <dimen name="main_header_height">88dp</dimen>
+    <dimen name="card_media_area_height">209dp</dimen>
+    <dimen name="card_bottom_bar_height">56dp</dimen>
+    <dimen name="card_top_bar_height">72dp</dimen>
+
+
+    <!-- widths -->
+
+    <!-- font sizes -->
+    <dimen name="list_secondary_text_size">14sp</dimen>
+    <dimen name="list_primary_text_size">16sp</dimen>
+    <dimen name="card_info_text">14sp</dimen>
+
+</resources>
